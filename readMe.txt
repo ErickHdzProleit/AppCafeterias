@@ -1,1 +1,1 @@
-Hola estoy practicando git con Circe mi novia 
+This is no longer an app for Cageterias
